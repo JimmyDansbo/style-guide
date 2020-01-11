@@ -26,7 +26,7 @@ Sorry_camel_peeps
 
 !define DEFINES_ARE_ALSO_UPPER_CASE=1
 
-Constants_and_Variables_not_starting_with_at-sign_or_dot=$9F20
+Constants_and_Variables_not_starting_with_at-sign_or_dot=$9F20  (Acme v 0.96.4)
 Are_alway_considered_to_be_global=$9F21
 And_should_start_with_capital_letter !byte $ff
 
