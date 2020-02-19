@@ -1,5 +1,4 @@
 All_names_use_underscore_instead_of_camel_case
-Sorry_camel_peeps
 
 ;****************************************************************************
 ;   Section
